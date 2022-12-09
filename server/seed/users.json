@@ -1,0 +1,20 @@
+[
+  {
+    "name": "admin",
+    "password": "1234",
+    "phonenumber": "010-0000-0000",
+    "isAdmin": true
+  }, 
+  {
+    "name": "userA",
+    "password": "1234",
+    "phonenumber": "010-0000-0000",
+    "isAdmin": false
+  },
+  {
+    "name": "userB",
+    "password": "1234",
+    "phonenumber": "010-0000-0000",
+    "isAdmin": false
+  }
+]

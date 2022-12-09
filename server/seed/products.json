@@ -1,0 +1,86 @@
+[
+  {
+    "name": "chair",
+    "price": "60000",
+    "tradingplace": "SKKU Suwon Campus",
+    "description": "Fully functional office chair. Can deliver.",
+    "status": 1,
+    "image1": "http://localhost:8081/images/chair1.jpg",
+    "image2": "http://localhost:8081/images/chair2.jpg",
+    "image3": "http://localhost:8081/images/chair3.jpg",
+    "image4": "http://localhost:8081/images/null",
+    "sellerName": "userA"
+  },
+  {
+    "name": "Two Dell 27 4K UHD Monitor",
+    "price": "300000",
+    "tradingplace": "Sadang",
+    "description": "There are two for 300,000 each and all cables you need.",
+    "status": 1,
+    "image1": "http://localhost:8081/images/dell1.jpeg",
+    "image2": "http://localhost:8081/images/null",
+    "image3": "http://localhost:8081/images/null",
+    "image4": "http://localhost:8081/images/null",
+    "sellerName": "userA"
+  },
+  {
+    "name": "Irregular Geometric Dangle Earrings",
+    "price": "18000",
+    "tradingplace": "Suwon Station",
+    "status": 1,
+    "description": "Contact us by: https://yzwstore.com/",
+    "image1": "http://localhost:8081/images/earring1.jpg",
+    "image2": "http://localhost:8081/images/earring2.jpg",
+    "image3": "http://localhost:8081/images/earring3.jpg",
+    "image4": "http://localhost:8081/images/earring4.jpg",
+    "sellerName": "userB"
+  },
+  {
+    "name": "Children's things from the site NEXT",
+    "price": "50000",
+    "tradingplace": "SKKU Station",
+    "status": 1,
+    "description": "New boots from NEXT 50,000won. NEXT dark blue jumpsuit new 50,000won. Dimensions are shown in the photo. Selling because wrong size. Pickup Ansanek or tekpe",
+    "image1": "http://localhost:8081/images/jacket1.jpg",
+    "image2": "http://localhost:8081/images/jacket2.jpg",
+    "image3": "http://localhost:8081/images/jacket3.jpg",
+    "image4": "http://localhost:8081/images/null",
+    "sellerName": "userB"
+  },
+  {
+    "name": "Samsung Galexy Book Pro 360 15.6 Inch 16g Ram",
+    "price": "900000",
+    "tradingplace": "Ji kwan Dorm",
+    "status": 1,
+    "description": "15.6 inch touch screen display\n16 gigabytes of ram\n512 gigabyte internal storage\nUsed comes with original box, pen, after market 10ft charging cable and charging box\nPerfect for graphic design and business",
+    "image1": "http://localhost:8081/images/laptop1.jpg",
+    "image2": "http://localhost:8081/images/laptop2.jpg",
+    "image3": "http://localhost:8081/images/null",
+    "image4": "http://localhost:8081/images/null",
+    "sellerName": "userB"
+  },
+  {
+    "name": "Pink pants",
+    "price": "99000",
+    "tradingplace": "SKKU Station",
+    "status": 1,
+    "description": "Loose pants All sizes SML",
+    "image1": "http://localhost:8081/images/pant1.jpg",
+    "image2": "http://localhost:8081/images/pant2.jpg",
+    "image3": "http://localhost:8081/images/null",
+    "image4": "http://localhost:8081/images/null",
+    "sellerName": "userB"
+  },
+  {
+    "name": "Couch",
+    "price": "175000",
+    "tradingplace": "Pyeongtaek Station",
+    "status": 1,
+    "description": "Leather couch is a gray-ish/blue and comes with ottoman (see picture for small cosmetic scratch) and 2 pillows.",
+    "image1": "http://localhost:8081/images/sofa1.jpg",
+    "image2": "http://localhost:8081/images/sofa2.jpg",
+    "image3": "http://localhost:8081/images/null",
+    "image4": "http://localhost:8081/images/null",
+    "sellerName": "userB"
+  }
+]
